@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Vonni]]></title>
-        <description><![CDATA[Vonni]]></description>
+        <title><![CDATA[Design]]></title>
+        <description><![CDATA[Design]]></description>
         <link>https://thegrid.ai/vonni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 19:36:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vonni/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Massimo Vignelli's Signed 2012 NYC Subway Diagram]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster</link>
             <guid isPermaLink="false">30f05a77-b16d-495d-8034-b889a1f5eb3a</guid>
             <pubDate>Tue, 16 Aug 2016 19:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Leslie Guelcher (@lag6267): "Read @DanielSilvabook's "The Black Window" this weekend. WOW! I had to keep telling myself "this is fiction". #greatreads"</p>]]></description>
+            <link>https://www.twitter.com/lag6267</link>
+            <guid isPermaLink="false">efce4aad-c76d-40e3-98b7-f7f3eef64559</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
