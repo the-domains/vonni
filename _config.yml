@@ -6,9 +6,9 @@ color:
   saturation: 0.5712224091403186
   rhythmicContrast: 0.027271101716905832
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FEFAF1'
+    - '#FEC401'
+    - '#351425'
+    - '#FE5A01'
+    - '#FDB1B3'
 name: Vonni
